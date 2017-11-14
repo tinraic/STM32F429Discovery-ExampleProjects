@@ -434,6 +434,21 @@
               <FileType>1</FileType>
               <FilePath>..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery.c</FilePath>
             </File>
+            <File>
+              <FileName>stm32f429i_discovery_l3gd20.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_l3gd20.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f429i_discovery_lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f429i_discovery_sdram.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_sdram.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -473,6 +488,26 @@
               <FileName>stm32f4xx_syscfg.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f4xx_dma2d.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma2d.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f4xx_spi.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f4xx_ltdc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_ltdc.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f4xx_fmc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fmc.c</FilePath>
             </File>
           </Files>
         </Group>
